@@ -1,0 +1,4 @@
+﻿  testProgQueueArray.cpp
+c:\users\schul\source\repos\palindromeproject\palindromeproject\testprogqueuearray.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\schul\source\repos\palindromeproject\palindromeproject\testprogqueuearray.cpp(22): warning C4101: 'quit': unreferenced local variable
+  PalindromeProject.vcxproj -> C:\Users\schul\source\repos\PalindromeProject\Debug\PalindromeProject.exe
